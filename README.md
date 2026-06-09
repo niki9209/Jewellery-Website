@@ -87,11 +87,7 @@ Classic-Glow/
 
 Add your GitHub Pages link here:
 
-[```bash
-https://yourusername.github.io/classic-glow/
-```](https://niki9209.github.io/Jewellery-Website/)
-
----
+https://niki9209.github.io/Jewellery-Website/
 
 # 📸 Website Highlights
 
