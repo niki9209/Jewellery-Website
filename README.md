@@ -8,6 +8,12 @@ This project was created using HTML, CSS, and JavaScript as part of frontend web
 
 ---
 
+# 🚀 Live Website
+
+Add your GitHub Pages link here:
+
+https://niki9209.github.io/Jewellery-Website/
+
 # 🌟 Features
 
 * Elegant and responsive homepage
